@@ -1,2 +1,2 @@
 # prob-language-properties
-Probabilistic properties of language.
+This notebook demonstrates the creation of synthetic texts using conditional probabilities.
